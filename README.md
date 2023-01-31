@@ -10,10 +10,6 @@ Copy the source DCIM folder location as well as the same and location for the ou
 
 ![FileCopyerUI](/FileCopyerUI.png?raw=true)
 
-Within each city tab, wind power generation potential has been calculated using hourly wind velocities.
-
-![CityTab_WindData](/ReadMeImages/WindData.png?raw=true)
-
 Example input and output of the program.
 
 ![FileCopyerExample](/FileCopyerExample.png?raw=true)
